@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811113251994",
+    "project_id": "aura-ac209",
+    "storage_bucket": "aura-ac209.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811113251994:android:af1d7519e3ae8a9a264b23",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ5Cega9a4q79-ZBfDy4IZIA3BO9s2nIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
