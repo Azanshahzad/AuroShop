@@ -29,6 +29,23 @@ A modern Flutter-based E-Commerce application built with Firebase Authentication
 - Google Fonts
 
 ---
+## 📸 Screenshots
+
+| Home | Product Details |
+|------|-----------------|
+| ![](Screenshots/home.jpeg) | ![](Screenshots/product_details.jpeg) |
+
+| Cart | Wishlist |
+|------|-----------|
+| ![](Screenshots/cart.jpeg) | ![](Screenshots/wishlist.jpeg) |
+
+| Profile | Manage Products |
+|------|-----------------|
+| ![](Screenshots/profile.jpeg) | ![](Screenshots/manage_products.jpeg) |
+
+| Manage Orders | Admin Dashboard |
+|------|-----------------|
+| ![](Screenshots/manage_orders.jpeg) | ![](Screenshots/admin_dashboard.jpeg) |
 
 ## 📂 Project Structure
 
